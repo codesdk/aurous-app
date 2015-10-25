@@ -1,4 +1,4 @@
-THIS BUILD IS NO LONGER UPDATED AND IS OBSOLETE. SEE OUR ORGINZATION https://github.com/AurousGroup/Aurous-SDK
+THIS BUILD IS NO LONGER UPDATED AND IS OBSOLETE. SEE OUR ORGINZATION https://github.com/AurousGroup/
 
 aurrous-app
 ===========
